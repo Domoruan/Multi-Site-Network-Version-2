@@ -1,4 +1,4 @@
-# Multi-Site-Network-Version-2
+# Multi-Site-Network-NAT/PAT-DNS/HTTP Server
 Multi-Site Network - Added NAT/PAT, ISP router and Server for internet simulation and name resolution. 
 
 ### NAT/PAT and ISP Connectivity 
