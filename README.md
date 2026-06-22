@@ -1,7 +1,5 @@
 # Multi-Site-Network-Version-2
-Version 2 of Multi-Site Network - Added NAT/PAT, ISP router and Server for internet simulation and name resolution. 
-
-## Changes from Version 1
+Multi-Site Network - Added NAT/PAT, ISP router and Server for internet simulation and name resolution. 
 
 ### NAT/PAT and ISP Connectivity 
 - Added a simulated ISP network. 
